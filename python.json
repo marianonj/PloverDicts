@@ -1,0 +1,11 @@
+{
+"TPR*":"for",
+"TP*-R/S":"for i in",
+"TP*-R/T":"for i, j in",
+"TP*-R/P":"for i, j, k in",
+"TP*-R/H":"for i, j, k, l, in",
+"KHRA*S":"{^}{>}class():{#left}{#left}{#left}{MODE:CAMEL}{$}{#space}{-|}",
+"R-R":"{#end}{#return}{^}{MODE:RESET_SPACE}{MODE:RESET_CASE}{:attach:}",
+"KAEPL":"{MODE:CAMEL}{-|}{^}"
+}
+		
